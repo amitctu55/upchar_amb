@@ -1,0 +1,48 @@
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/upcharrc/public_html/amb/tests/TestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/TestCase.php on line 3
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'TestCase' not found in /home/upcharrc/public_html/amb/tests/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/ExampleTest.php on line 7
+[17-Feb-2024 10:46:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/upcharrc/public_html/amb/tests/TestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/TestCase.php on line 3
+[17-Feb-2024 10:46:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'TestCase' not found in /home/upcharrc/public_html/amb/tests/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/ExampleTest.php on line 7
+[16-May-2024 04:28:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'TestCase' not found in /home/upcharrc/public_html/amb/tests/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/ExampleTest.php on line 7
+[16-May-2024 04:28:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/upcharrc/public_html/amb/tests/TestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/TestCase.php on line 3
+[16-May-2024 04:29:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'TestCase' not found in /home/upcharrc/public_html/amb/tests/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/ExampleTest.php on line 7
+[16-May-2024 04:29:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/upcharrc/public_html/amb/tests/TestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/TestCase.php on line 3
+[16-May-2024 04:29:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'TestCase' not found in /home/upcharrc/public_html/amb/tests/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/ExampleTest.php on line 7
+[16-May-2024 04:29:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/upcharrc/public_html/amb/tests/TestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/TestCase.php on line 3
+[16-May-2024 04:29:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'TestCase' not found in /home/upcharrc/public_html/amb/tests/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/ExampleTest.php on line 7
+[16-May-2024 04:29:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/upcharrc/public_html/amb/tests/TestCase.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/tests/TestCase.php on line 3

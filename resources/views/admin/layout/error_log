@@ -1,0 +1,4 @@
+[16-May-2024 14:09:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/admin/layout/base.blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/admin/layout/base.blade.php on line 50

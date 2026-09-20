@@ -1,0 +1,20 @@
+[16-Feb-2024 05:29:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php on line 9
+[17-Feb-2024 10:47:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php on line 9
+[16-May-2024 14:35:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php on line 9
+[16-May-2024 14:35:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php on line 9
+[16-May-2024 14:36:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Exceptions/Handler.php on line 9

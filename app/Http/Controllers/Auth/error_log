@@ -1,0 +1,60 @@
+[19-May-2024 01:28:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/RegisterController.php on line 15
+[19-May-2024 01:28:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/SocialLoginController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/SocialLoginController.php on line 23
+[19-May-2024 01:28:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[19-May-2024 01:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[19-May-2024 01:29:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/LoginController.php on line 8
+[19-May-2024 01:36:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/RegisterController.php on line 15
+[19-May-2024 01:36:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/SocialLoginController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/SocialLoginController.php on line 23
+[19-May-2024 01:37:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[19-May-2024 01:37:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[19-May-2024 01:37:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/LoginController.php on line 8
+[19-May-2024 01:44:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/RegisterController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/RegisterController.php on line 15
+[19-May-2024 01:45:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/SocialLoginController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/SocialLoginController.php on line 23
+[19-May-2024 01:45:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[19-May-2024 01:45:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[19-May-2024 01:45:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/Auth/LoginController.php on line 8

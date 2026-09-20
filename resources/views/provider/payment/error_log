@@ -1,0 +1,20 @@
+[17-Feb-2024 10:48:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Carbon\Carbon' not found in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php on line 258
+[16-May-2024 11:07:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Carbon\Carbon' not found in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php on line 258
+[16-May-2024 11:17:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Carbon\Carbon' not found in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php on line 258
+[16-May-2024 11:27:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Carbon\Carbon' not found in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php on line 258
+[16-May-2024 11:37:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Carbon\Carbon' not found in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php:258
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/payment/earnings.blade.php on line 258

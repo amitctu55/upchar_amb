@@ -1,0 +1,48 @@
+[16-Feb-2024 05:29:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/ProviderCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/ProviderCommand.php on line 12
+[16-Feb-2024 05:29:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/CustomCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/CustomCommand.php on line 14
+[16-Feb-2024 05:29:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/DbClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/DbClearCommand.php on line 8
+[19-May-2024 04:25:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/ProviderCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/ProviderCommand.php on line 12
+[19-May-2024 04:25:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/DbClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/DbClearCommand.php on line 8
+[19-May-2024 04:25:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/CustomCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/CustomCommand.php on line 14
+[19-May-2024 04:26:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/ProviderCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/ProviderCommand.php on line 12
+[19-May-2024 04:26:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/DbClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/DbClearCommand.php on line 8
+[19-May-2024 04:26:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/CustomCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/CustomCommand.php on line 14
+[19-May-2024 04:26:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/ProviderCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/ProviderCommand.php on line 12
+[19-May-2024 04:26:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/DbClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/DbClearCommand.php on line 8
+[19-May-2024 04:26:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/upcharrc/public_html/amb/app/Console/Commands/CustomCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Console/Commands/CustomCommand.php on line 14

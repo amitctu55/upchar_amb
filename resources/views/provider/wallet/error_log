@@ -1,0 +1,20 @@
+[17-Feb-2024 10:48:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php on line 2
+[16-May-2024 11:07:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php on line 2
+[16-May-2024 11:18:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php on line 2
+[16-May-2024 11:29:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php on line 2
+[16-May-2024 11:37:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/wallet/card.blade.php on line 2

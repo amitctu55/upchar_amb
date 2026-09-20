@@ -1,0 +1,504 @@
+[16-Feb-2024 05:28:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/app.php on line 15
+[16-Feb-2024 05:28:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/webpush.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/webpush.php on line 16
+[16-Feb-2024 05:28:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/broadcasting.php on line 18
+[16-Feb-2024 05:28:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/cache.php on line 18
+[16-Feb-2024 05:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/debugbar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/debugbar.php on line 15
+[16-Feb-2024 05:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/filesystems.php on line 48
+[16-Feb-2024 05:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/database.php on line 29
+[16-Feb-2024 05:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/logging.php on line 18
+[16-Feb-2024 05:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/passport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/passport.php on line 16
+[16-Feb-2024 05:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/payu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/payu.php on line 16
+[16-Feb-2024 05:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/mail.php on line 19
+[16-Feb-2024 05:28:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/push-notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/push-notification.php on line 6
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/services.php on line 18
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/queue.php on line 18
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/session.php on line 19
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/settings.php on line 9
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/paypal.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/paypal.php on line 4
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/upcharrc/public_html/amb/config/image.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/image.php on line 39
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/jwt.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/jwt.php on line 24
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/upcharrc/public_html/amb/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/trustedproxy.php on line 48
+[16-Feb-2024 05:28:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/upcharrc/public_html/amb/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/view.php on line 17
+[17-Feb-2024 10:46:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/webpush.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/webpush.php on line 16
+[17-Feb-2024 10:46:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/app.php on line 15
+[17-Feb-2024 10:46:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/broadcasting.php on line 18
+[17-Feb-2024 10:46:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/cache.php on line 18
+[17-Feb-2024 10:46:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/database.php on line 29
+[17-Feb-2024 10:46:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/debugbar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/debugbar.php on line 15
+[17-Feb-2024 10:46:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/filesystems.php on line 48
+[17-Feb-2024 10:46:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/logging.php on line 18
+[17-Feb-2024 10:46:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/jwt.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/jwt.php on line 24
+[17-Feb-2024 10:46:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/upcharrc/public_html/amb/config/image.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/image.php on line 39
+[17-Feb-2024 10:46:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/paypal.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/paypal.php on line 4
+[17-Feb-2024 10:46:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/mail.php on line 19
+[17-Feb-2024 10:46:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/payu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/payu.php on line 16
+[17-Feb-2024 10:46:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/passport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/passport.php on line 16
+[17-Feb-2024 10:46:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/queue.php on line 18
+[17-Feb-2024 10:46:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/services.php on line 18
+[17-Feb-2024 10:46:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/push-notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/push-notification.php on line 6
+[17-Feb-2024 10:46:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/session.php on line 19
+[17-Feb-2024 10:46:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/upcharrc/public_html/amb/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/view.php on line 17
+[17-Feb-2024 10:46:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/settings.php on line 9
+[17-Feb-2024 10:46:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/upcharrc/public_html/amb/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/trustedproxy.php on line 48
+[05-Mar-2024 01:26:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/upcharrc/public_html/amb/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/view.php on line 17
+[16-May-2024 04:17:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/filesystems.php on line 48
+[16-May-2024 04:17:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/upcharrc/public_html/amb/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/trustedproxy.php on line 48
+[16-May-2024 04:17:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/broadcasting.php on line 18
+[16-May-2024 04:17:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/push-notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/push-notification.php on line 6
+[16-May-2024 04:18:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/settings.php on line 9
+[16-May-2024 04:18:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/services.php on line 18
+[16-May-2024 04:18:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/passport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/passport.php on line 16
+[16-May-2024 04:18:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/debugbar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/debugbar.php on line 15
+[16-May-2024 04:18:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/database.php on line 29
+[16-May-2024 04:18:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/webpush.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/webpush.php on line 16
+[16-May-2024 04:18:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/session.php on line 19
+[16-May-2024 04:18:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/logging.php on line 18
+[16-May-2024 04:18:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/paypal.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/paypal.php on line 4
+[16-May-2024 04:18:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/queue.php on line 18
+[16-May-2024 04:18:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/upcharrc/public_html/amb/config/image.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/image.php on line 39
+[16-May-2024 04:18:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/cache.php on line 18
+[16-May-2024 04:18:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/upcharrc/public_html/amb/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/view.php on line 17
+[16-May-2024 04:19:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/payu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/payu.php on line 16
+[16-May-2024 04:19:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/mail.php on line 19
+[16-May-2024 04:19:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/jwt.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/jwt.php on line 24
+[16-May-2024 04:19:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/app.php on line 15
+[16-May-2024 04:20:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/filesystems.php on line 48
+[16-May-2024 04:20:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/upcharrc/public_html/amb/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/trustedproxy.php on line 48
+[16-May-2024 04:20:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/broadcasting.php on line 18
+[16-May-2024 04:20:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/push-notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/push-notification.php on line 6
+[16-May-2024 04:21:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/settings.php on line 9
+[16-May-2024 04:21:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/passport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/passport.php on line 16
+[16-May-2024 04:21:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/services.php on line 18
+[16-May-2024 04:21:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/debugbar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/debugbar.php on line 15
+[16-May-2024 04:21:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/database.php on line 29
+[16-May-2024 04:21:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/webpush.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/webpush.php on line 16
+[16-May-2024 04:21:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/session.php on line 19
+[16-May-2024 04:21:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/logging.php on line 18
+[16-May-2024 04:21:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/paypal.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/paypal.php on line 4
+[16-May-2024 04:21:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/queue.php on line 18
+[16-May-2024 04:21:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/upcharrc/public_html/amb/config/image.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/image.php on line 39
+[16-May-2024 04:21:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/cache.php on line 18
+[16-May-2024 04:21:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/upcharrc/public_html/amb/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/view.php on line 17
+[16-May-2024 04:22:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/payu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/payu.php on line 16
+[16-May-2024 04:22:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/mail.php on line 19
+[16-May-2024 04:22:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/jwt.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/jwt.php on line 24
+[16-May-2024 04:22:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/app.php on line 15
+[16-May-2024 04:23:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/filesystems.php on line 48
+[16-May-2024 04:23:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/upcharrc/public_html/amb/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/trustedproxy.php on line 48
+[16-May-2024 04:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/broadcasting.php on line 18
+[16-May-2024 04:23:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/push-notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/push-notification.php on line 6
+[16-May-2024 04:24:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/settings.php on line 9
+[16-May-2024 04:24:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/passport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/passport.php on line 16
+[16-May-2024 04:24:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/services.php on line 18
+[16-May-2024 04:24:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/debugbar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/debugbar.php on line 15
+[16-May-2024 04:24:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/database.php on line 29
+[16-May-2024 04:24:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/webpush.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/webpush.php on line 16
+[16-May-2024 04:24:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/session.php on line 19
+[16-May-2024 04:24:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/logging.php on line 18
+[16-May-2024 04:24:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/paypal.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/paypal.php on line 4
+[16-May-2024 04:24:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/queue.php on line 18
+[16-May-2024 04:24:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/upcharrc/public_html/amb/config/image.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/image.php on line 39
+[16-May-2024 04:24:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/cache.php on line 18
+[16-May-2024 04:24:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/upcharrc/public_html/amb/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/view.php on line 17
+[16-May-2024 04:25:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/payu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/payu.php on line 16
+[16-May-2024 04:25:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/jwt.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/jwt.php on line 24
+[16-May-2024 04:25:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/mail.php on line 19
+[16-May-2024 04:25:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/app.php on line 15
+[16-May-2024 04:26:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/upcharrc/public_html/amb/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/filesystems.php on line 48
+[16-May-2024 04:26:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/upcharrc/public_html/amb/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/trustedproxy.php on line 48
+[16-May-2024 04:26:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/broadcasting.php on line 18
+[16-May-2024 04:26:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/push-notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/push-notification.php on line 6
+[16-May-2024 04:27:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/services.php on line 18
+[16-May-2024 04:27:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/passport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/passport.php on line 16
+[16-May-2024 04:27:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/debugbar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/debugbar.php on line 15
+[16-May-2024 04:27:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/database.php on line 29
+[16-May-2024 04:27:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/webpush.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/webpush.php on line 16
+[16-May-2024 04:27:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/session.php on line 19
+[16-May-2024 04:27:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/logging.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/logging.php on line 18
+[16-May-2024 04:27:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/paypal.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/paypal.php on line 4
+[16-May-2024 04:27:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/queue.php on line 18
+[16-May-2024 04:27:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/upcharrc/public_html/amb/config/image.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/image.php on line 39
+[16-May-2024 04:27:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/cache.php on line 18
+[16-May-2024 04:27:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/upcharrc/public_html/amb/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/view.php on line 17
+[16-May-2024 04:28:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/config/payu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/payu.php on line 16
+[16-May-2024 04:28:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/mail.php on line 19
+[16-May-2024 04:28:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/jwt.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/jwt.php on line 24
+[16-May-2024 04:28:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/upcharrc/public_html/amb/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/config/app.php on line 15

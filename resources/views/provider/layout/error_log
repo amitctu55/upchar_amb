@@ -1,0 +1,40 @@
+[17-Feb-2024 10:48:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php on line 24
+[17-Feb-2024 10:48:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php on line 2
+[16-May-2024 11:08:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php on line 24
+[16-May-2024 11:08:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php on line 2
+[16-May-2024 11:19:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php on line 24
+[16-May-2024 11:19:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php on line 2
+[16-May-2024 11:30:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php on line 24
+[16-May-2024 11:30:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php on line 2
+[16-May-2024 11:38:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/auth.blade.php on line 24
+[16-May-2024 11:38:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/provider/layout/app.blade.php on line 2

@@ -1,0 +1,24 @@
+[16-May-2024 11:04:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/base.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/base.blade.php on line 44
+[16-May-2024 11:04:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/auth.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/auth.blade.php on line 32
+[16-May-2024 11:15:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/base.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/base.blade.php on line 44
+[16-May-2024 11:15:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/auth.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/auth.blade.php on line 32
+[16-May-2024 11:34:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/base.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/base.blade.php on line 44
+[16-May-2024 11:34:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/auth.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/dispatcher/layout/auth.blade.php on line 32

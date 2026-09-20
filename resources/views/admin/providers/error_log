@@ -1,0 +1,8 @@
+[17-Feb-2024 10:48:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/admin/providers/provider-details.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/admin/providers/provider-details.blade.php on line 14
+[16-May-2024 13:49:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/admin/providers/provider-details.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/admin/providers/provider-details.blade.php on line 14

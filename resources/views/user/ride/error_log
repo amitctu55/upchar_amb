@@ -1,0 +1,48 @@
+[17-May-2024 19:43:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/upcoming.blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/upcoming.blade.php on line 50
+[17-May-2024 19:43:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/waiting.blade.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/waiting.blade.php on line 45
+[17-May-2024 19:43:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/trips.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/trips.blade.php on line 170
+[17-May-2024 19:44:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/upcoming.blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/upcoming.blade.php on line 50
+[17-May-2024 19:44:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/waiting.blade.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/waiting.blade.php on line 45
+[17-May-2024 19:44:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/trips.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/trips.blade.php on line 170
+[17-May-2024 19:45:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/upcoming.blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/upcoming.blade.php on line 50
+[17-May-2024 19:45:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/waiting.blade.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/waiting.blade.php on line 45
+[17-May-2024 19:45:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/trips.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/trips.blade.php on line 170
+[17-May-2024 19:46:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/upcoming.blade.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/upcoming.blade.php on line 50
+[17-May-2024 19:46:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/waiting.blade.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/waiting.blade.php on line 45
+[17-May-2024 19:46:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/upcharrc/public_html/amb/resources/views/user/ride/trips.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/ride/trips.blade.php on line 170

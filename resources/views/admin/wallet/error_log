@@ -1,0 +1,4 @@
+[16-May-2024 14:08:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Lang' not found in /home/upcharrc/public_html/amb/resources/views/admin/wallet/create.blade.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/admin/wallet/create.blade.php on line 13

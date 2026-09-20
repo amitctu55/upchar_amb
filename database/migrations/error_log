@@ -1,0 +1,1384 @@
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php on line 6
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php on line 8
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php on line 6
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php on line 6
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php on line 6
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php on line 6
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php on line 6
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php on line 6
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php on line 6
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php on line 6
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php on line 7
+[16-Feb-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php on line 7
+[17-Feb-2024 10:46:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php on line 7
+[17-Feb-2024 10:46:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php on line 7
+[17-Feb-2024 10:46:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php on line 7
+[17-Feb-2024 10:46:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php on line 7
+[17-Feb-2024 10:47:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php on line 7
+[17-Feb-2024 10:47:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php on line 7
+[17-Feb-2024 10:47:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php on line 7
+[17-Feb-2024 10:47:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php on line 6
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php on line 6
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php on line 6
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php on line 6
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php on line 6
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php on line 6
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php on line 6
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php on line 7
+[17-Feb-2024 10:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php on line 8
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php on line 7
+[17-Feb-2024 10:47:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php on line 7
+[17-Feb-2024 10:47:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php on line 7
+[17-Feb-2024 10:47:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php on line 6
+[17-Feb-2024 10:47:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php on line 6
+[17-Feb-2024 10:47:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php on line 7
+[17-Feb-2024 10:47:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php on line 7
+[17-Feb-2024 10:47:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php on line 7
+[17-Feb-2024 10:47:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php on line 7
+[16-May-2024 05:26:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php on line 7
+[16-May-2024 05:26:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php on line 6
+[16-May-2024 05:26:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php on line 8
+[16-May-2024 05:26:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php on line 7
+[16-May-2024 05:26:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php on line 7
+[16-May-2024 05:26:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php on line 6
+[16-May-2024 05:26:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php on line 7
+[16-May-2024 05:26:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php on line 7
+[16-May-2024 05:26:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php on line 7
+[16-May-2024 05:26:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[16-May-2024 05:26:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php on line 6
+[16-May-2024 05:26:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php on line 6
+[16-May-2024 05:26:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php on line 7
+[16-May-2024 05:26:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php on line 7
+[16-May-2024 05:26:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php on line 6
+[16-May-2024 05:27:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php on line 7
+[16-May-2024 05:27:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php on line 7
+[16-May-2024 05:27:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php on line 7
+[16-May-2024 05:27:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php on line 7
+[16-May-2024 05:27:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php on line 7
+[16-May-2024 05:27:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php on line 7
+[16-May-2024 05:27:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php on line 7
+[16-May-2024 05:27:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php on line 7
+[16-May-2024 05:27:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php on line 7
+[16-May-2024 05:27:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php on line 7
+[16-May-2024 05:27:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php on line 7
+[16-May-2024 05:27:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php on line 7
+[16-May-2024 05:27:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php on line 7
+[16-May-2024 05:27:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php on line 6
+[16-May-2024 05:27:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php on line 7
+[16-May-2024 05:28:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php on line 7
+[16-May-2024 05:28:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php on line 7
+[16-May-2024 05:28:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php on line 7
+[16-May-2024 05:28:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[16-May-2024 05:28:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php on line 7
+[16-May-2024 05:28:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php on line 7
+[16-May-2024 05:28:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php on line 7
+[16-May-2024 05:28:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php on line 7
+[16-May-2024 05:28:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php on line 7
+[16-May-2024 05:28:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php on line 7
+[16-May-2024 05:28:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php on line 7
+[16-May-2024 05:28:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php on line 7
+[16-May-2024 05:28:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php on line 7
+[16-May-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php on line 7
+[16-May-2024 05:28:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php on line 7
+[16-May-2024 05:29:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php on line 7
+[16-May-2024 05:29:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php on line 6
+[16-May-2024 05:29:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php on line 7
+[16-May-2024 05:29:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php on line 7
+[16-May-2024 05:29:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php on line 7
+[16-May-2024 05:29:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[16-May-2024 05:29:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php on line 7
+[16-May-2024 05:29:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php on line 7
+[16-May-2024 05:29:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php on line 7
+[16-May-2024 05:29:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php on line 7
+[16-May-2024 05:29:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php on line 6
+[16-May-2024 05:29:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php on line 6
+[16-May-2024 05:29:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php on line 7
+[16-May-2024 05:30:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php on line 7
+[16-May-2024 05:30:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php on line 6
+[16-May-2024 05:30:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php on line 8
+[16-May-2024 05:30:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php on line 7
+[16-May-2024 05:30:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php on line 7
+[16-May-2024 05:30:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php on line 6
+[16-May-2024 05:30:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php on line 7
+[16-May-2024 05:30:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php on line 7
+[16-May-2024 05:30:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php on line 7
+[16-May-2024 05:30:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[16-May-2024 05:30:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php on line 6
+[16-May-2024 05:30:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php on line 6
+[16-May-2024 05:30:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php on line 7
+[16-May-2024 05:30:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php on line 7
+[16-May-2024 05:30:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php on line 6
+[16-May-2024 05:31:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php on line 7
+[16-May-2024 05:31:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php on line 7
+[16-May-2024 05:31:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php on line 7
+[16-May-2024 05:31:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php on line 7
+[16-May-2024 05:31:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php on line 7
+[16-May-2024 05:31:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php on line 7
+[16-May-2024 05:31:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php on line 7
+[16-May-2024 05:31:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php on line 7
+[16-May-2024 05:31:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php on line 7
+[16-May-2024 05:31:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php on line 7
+[16-May-2024 05:31:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php on line 7
+[16-May-2024 05:31:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php on line 7
+[16-May-2024 05:31:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php on line 7
+[16-May-2024 05:31:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php on line 6
+[16-May-2024 05:31:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php on line 7
+[16-May-2024 05:32:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php on line 7
+[16-May-2024 05:32:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php on line 7
+[16-May-2024 05:32:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php on line 7
+[16-May-2024 05:32:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[16-May-2024 05:32:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php on line 7
+[16-May-2024 05:32:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php on line 7
+[16-May-2024 05:32:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php on line 7
+[16-May-2024 05:32:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php on line 7
+[16-May-2024 05:32:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php on line 7
+[16-May-2024 05:32:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php on line 7
+[16-May-2024 05:32:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php on line 7
+[16-May-2024 05:32:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php on line 7
+[16-May-2024 05:32:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php on line 7
+[16-May-2024 05:32:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php on line 7
+[16-May-2024 05:32:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php on line 7
+[16-May-2024 05:33:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php on line 6
+[16-May-2024 05:33:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php on line 7
+[16-May-2024 05:33:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php on line 7
+[16-May-2024 05:33:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php on line 7
+[16-May-2024 05:33:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[16-May-2024 05:33:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php on line 7
+[16-May-2024 05:33:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php on line 7
+[16-May-2024 05:33:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php on line 7
+[16-May-2024 05:33:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php on line 7
+[16-May-2024 05:33:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php on line 6
+[16-May-2024 05:33:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php on line 6
+[16-May-2024 05:33:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php on line 7
+[16-May-2024 05:34:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php on line 7
+[16-May-2024 05:34:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php on line 6
+[16-May-2024 05:34:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php on line 8
+[16-May-2024 05:34:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php on line 7
+[16-May-2024 05:34:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php on line 7
+[16-May-2024 05:34:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php on line 6
+[16-May-2024 05:34:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php on line 7
+[16-May-2024 05:34:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php on line 7
+[16-May-2024 05:34:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php on line 7
+[16-May-2024 05:34:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[16-May-2024 05:34:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php on line 6
+[16-May-2024 05:34:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php on line 6
+[16-May-2024 05:34:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php on line 7
+[16-May-2024 05:34:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php on line 7
+[16-May-2024 05:34:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php on line 6
+[16-May-2024 05:35:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php on line 7
+[16-May-2024 05:35:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php on line 7
+[16-May-2024 05:35:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php on line 7
+[16-May-2024 05:35:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php on line 7
+[16-May-2024 05:35:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php on line 7
+[16-May-2024 05:35:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php on line 7
+[16-May-2024 05:35:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php on line 7
+[16-May-2024 05:35:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php on line 7
+[16-May-2024 05:35:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php on line 7
+[16-May-2024 05:35:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php on line 7
+[16-May-2024 05:35:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php on line 7
+[16-May-2024 05:35:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php on line 7
+[16-May-2024 05:35:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php on line 7
+[16-May-2024 05:35:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php on line 6
+[16-May-2024 05:35:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php on line 7
+[16-May-2024 05:36:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php on line 7
+[16-May-2024 05:36:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php on line 7
+[16-May-2024 05:36:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[16-May-2024 05:36:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php on line 7
+[16-May-2024 05:36:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php on line 7
+[16-May-2024 05:36:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php on line 7
+[16-May-2024 05:36:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php on line 7
+[16-May-2024 05:36:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php on line 7
+[16-May-2024 05:36:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php on line 7
+[16-May-2024 05:36:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php on line 7
+[16-May-2024 05:36:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php on line 7
+[16-May-2024 05:36:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php on line 7
+[16-May-2024 05:36:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php on line 7
+[16-May-2024 05:37:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php on line 7
+[16-May-2024 05:37:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php on line 6
+[16-May-2024 05:37:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php on line 7
+[16-May-2024 05:37:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php on line 7
+[16-May-2024 05:37:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php on line 7
+[16-May-2024 05:37:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php on line 7
+[16-May-2024 05:37:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[16-May-2024 05:37:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php on line 7
+[16-May-2024 05:37:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php on line 7
+[16-May-2024 05:37:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php on line 7
+[16-May-2024 05:37:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php on line 7
+[16-May-2024 05:37:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php on line 6
+[16-May-2024 05:37:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php on line 6
+[16-May-2024 05:37:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php on line 7
+[16-May-2024 05:38:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135142_create_disputes_table.php on line 7
+[16-May-2024 05:38:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154148_create_accounts_table.php on line 6
+[16-May-2024 05:38:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2015_08_25_172600_create_settings_table.php on line 8
+[16-May-2024 05:38:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_18_171537_create_reasons_table.php on line 7
+[16-May-2024 05:38:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_25_172422_create_documents_table.php on line 7
+[16-May-2024 05:38:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180511_create_providers_table.php on line 6
+[16-May-2024 05:38:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_06_29_174517_create_works_table.php on line 7
+[16-May-2024 05:38:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181357_create_chats_table.php on line 7
+[16-May-2024 05:38:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181312_create_cards_table.php on line 7
+[16-May-2024 05:38:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[16-May-2024 05:38:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151145_create_fleets_table.php on line 6
+[16-May-2024 05:38:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_180503_create_admins_table.php on line 6
+[16-May-2024 05:38:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_26_143905_create_fleet_cards_table.php on line 7
+[16-May-2024 05:38:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151631_create_user_wallet_table.php on line 7
+[16-May-2024 05:38:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151030_create_dispatchers_table.php on line 6
+[16-May-2024 05:39:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_permission_tables.php on line 7
+[16-May-2024 05:39:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_181558_create_promocodes_table.php on line 7
+[16-May-2024 05:39:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125556_create_peak_hours_table.php on line 7
+[16-May-2024 05:39:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135148_create_notifications_table.php on line 7
+[16-May-2024 05:39:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_27_195450_create_eventcontacts_table.php on line 7
+[16-May-2024 05:39:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_08_03_194354_create_custom_pushes_table.php on line 7
+[16-May-2024 05:39:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182738_create_service_types_table.php on line 7
+[16-May-2024 05:39:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182649_create_user_requests_table.php on line 7
+[16-May-2024 05:39:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_12_03_000000_create_payu_payments_table.php on line 7
+[16-May-2024 05:39:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000004_create_oauth_clients_table.php on line 7
+[16-May-2024 05:39:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_31_104045_create_payment_logs_table.php on line 7
+[16-May-2024 05:39:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151645_create_fleet_wallet_table.php on line 7
+[16-May-2024 05:39:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151624_create_admin_wallet_table.php on line 7
+[16-May-2024 05:39:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_04_02_193005_create_translations_table.php on line 6
+[16-May-2024 05:39:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_24_164552_create_provider_cards_table.php on line 7
+[16-May-2024 05:40:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_14_160535_create_wallet_requests_table.php on line 7
+[16-May-2024 05:40:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_09_07_151636_create_provider_wallet_table.php on line 7
+[16-May-2024 05:40:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182717_create_request_filters_table.php on line 7
+[16-May-2024 05:40:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[16-May-2024 05:40:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_28_145133_create_push_subscriptions_table.php on line 7
+[16-May-2024 05:40:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125553_create_service_peak_hours_table.php on line 7
+[16-May-2024 05:40:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_26_160101_create_favourite_locations_table.php on line 7
+[16-May-2024 05:40:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190355_create_promocode_passbooks_table.php on line 7
+[16-May-2024 05:40:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182454_create_provider_documents_table.php on line 7
+[16-May-2024 05:40:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000002_create_oauth_access_tokens_table.php on line 7
+[16-May-2024 05:40:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132536_create_referral_earnings_table.php on line 7
+[16-May-2024 05:40:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_14_135859_create_provider_profiles_table.php on line 7
+[16-May-2024 05:40:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_11_182536_create_provider_services_table.php on line 7
+[16-May-2024 05:40:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135145_create_user_request_disputes_table.php on line 7
+[16-May-2024 05:40:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_07_132532_create_referral_histroy_table.php on line 7
+[16-May-2024 05:41:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_09_01_190333_create_wallet_passbooks_table.php on line 7
+[16-May-2024 05:41:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151146_create_fleet_password_resets_table.php on line 6
+[16-May-2024 05:41:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_21_131429_create_promocode_usages_table.php on line 7
+[16-May-2024 05:41:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_06_080124_create_user_request_payments_table.php on line 7
+[16-May-2024 05:41:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_01_31_122021_create_provider_devices_table.php on line 7
+[16-May-2024 05:41:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000001_create_oauth_auth_codes_table.php on line 7
+[16-May-2024 05:41:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2018_12_27_125550_create_request_waiting_time_table.php on line 7
+[16-May-2024 05:41:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_02_02_192703_create_user_request_ratings_table.php on line 7
+[16-May-2024 05:41:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000003_create_oauth_refresh_tokens_table.php on line 7
+[16-May-2024 05:41:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2019_01_07_135146_create_user_request_lost_items_table.php on line 7
+[16-May-2024 05:41:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_20_154149_create_account_password_resets_table.php on line 6
+[16-May-2024 05:41:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2017_06_17_151031_create_dispatcher_password_resets_table.php on line 6
+[16-May-2024 05:41:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/migrations/2016_06_01_000005_create_oauth_personal_access_clients_table.php on line 7

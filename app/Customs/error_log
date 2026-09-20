@@ -1,0 +1,20 @@
+[16-Feb-2024 05:29:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\TransportManager' not found in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php on line 8
+[17-Feb-2024 10:47:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\TransportManager' not found in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php on line 8
+[19-May-2024 04:24:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\TransportManager' not found in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php on line 8
+[19-May-2024 04:25:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\TransportManager' not found in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php on line 8
+[19-May-2024 04:26:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\TransportManager' not found in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Customs/CustomTransportManager.php on line 8

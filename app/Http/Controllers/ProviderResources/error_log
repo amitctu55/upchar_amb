@@ -1,0 +1,39 @@
+[19-May-2024 01:25:06 Asia/Kolkata] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php on line 240
+[19-May-2024 01:25:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php on line 52
+[19-May-2024 01:25:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/ProfileController.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/ProfileController.php on line 32
+[19-May-2024 01:25:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/DocumentController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/DocumentController.php on line 15
+[19-May-2024 01:32:46 Asia/Kolkata] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php on line 240
+[19-May-2024 01:32:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php on line 52
+[19-May-2024 01:32:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/ProfileController.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/ProfileController.php on line 32
+[19-May-2024 01:32:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/DocumentController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/DocumentController.php on line 15
+[19-May-2024 01:40:50 Asia/Kolkata] PHP Deprecated:  Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php on line 240
+[19-May-2024 01:40:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/TripController.php on line 52
+[19-May-2024 01:40:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/ProfileController.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/ProfileController.php on line 32
+[19-May-2024 01:40:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/DocumentController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/app/Http/Controllers/ProviderResources/DocumentController.php on line 15

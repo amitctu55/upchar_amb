@@ -1,0 +1,240 @@
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/admin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/admin.php on line 14
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/routes/web.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/web.php on line 3
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/upcharrc/public_html/amb/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/console.php on line 16
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/common.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/common.php on line 4
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/api.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/api.php on line 13
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/account.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/account.php on line 9
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/dispatcher.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/dispatcher.php on line 3
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/fleet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/fleet.php on line 9
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/providerapi.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/providerapi.php on line 14
+[16-Feb-2024 05:28:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/provider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/provider.php on line 14
+[17-Feb-2024 10:46:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/routes/web.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/web.php on line 3
+[17-Feb-2024 10:46:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/admin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/admin.php on line 14
+[17-Feb-2024 10:46:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/common.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/common.php on line 4
+[17-Feb-2024 10:46:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/api.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/api.php on line 13
+[17-Feb-2024 10:46:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/fleet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/fleet.php on line 9
+[17-Feb-2024 10:46:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/providerapi.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/providerapi.php on line 14
+[17-Feb-2024 10:46:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/account.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/account.php on line 9
+[17-Feb-2024 10:46:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/upcharrc/public_html/amb/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/console.php on line 16
+[17-Feb-2024 10:46:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/dispatcher.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/dispatcher.php on line 3
+[17-Feb-2024 10:46:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/provider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/provider.php on line 14
+[16-May-2024 04:16:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/providerapi.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/providerapi.php on line 14
+[16-May-2024 04:16:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/dispatcher.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/dispatcher.php on line 3
+[16-May-2024 04:16:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/provider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/provider.php on line 14
+[16-May-2024 04:16:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/upcharrc/public_html/amb/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/console.php on line 16
+[16-May-2024 04:16:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/account.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/account.php on line 9
+[16-May-2024 04:16:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/common.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/common.php on line 4
+[16-May-2024 04:17:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/fleet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/fleet.php on line 9
+[16-May-2024 04:17:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/admin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/admin.php on line 14
+[16-May-2024 04:17:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/routes/web.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/web.php on line 3
+[16-May-2024 04:17:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/api.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/api.php on line 13
+[16-May-2024 04:19:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/providerapi.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/providerapi.php on line 14
+[16-May-2024 04:19:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/dispatcher.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/dispatcher.php on line 3
+[16-May-2024 04:19:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/provider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/provider.php on line 14
+[16-May-2024 04:19:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/upcharrc/public_html/amb/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/console.php on line 16
+[16-May-2024 04:19:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/account.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/account.php on line 9
+[16-May-2024 04:19:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/common.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/common.php on line 4
+[16-May-2024 04:20:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/fleet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/fleet.php on line 9
+[16-May-2024 04:20:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/admin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/admin.php on line 14
+[16-May-2024 04:20:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/routes/web.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/web.php on line 3
+[16-May-2024 04:20:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/api.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/api.php on line 13
+[16-May-2024 04:22:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/providerapi.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/providerapi.php on line 14
+[16-May-2024 04:22:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/dispatcher.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/dispatcher.php on line 3
+[16-May-2024 04:22:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/provider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/provider.php on line 14
+[16-May-2024 04:22:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/upcharrc/public_html/amb/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/console.php on line 16
+[16-May-2024 04:22:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/account.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/account.php on line 9
+[16-May-2024 04:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/common.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/common.php on line 4
+[16-May-2024 04:23:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/fleet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/fleet.php on line 9
+[16-May-2024 04:23:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/admin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/admin.php on line 14
+[16-May-2024 04:23:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/routes/web.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/web.php on line 3
+[16-May-2024 04:23:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/api.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/api.php on line 13
+[16-May-2024 04:25:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/providerapi.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/providerapi.php on line 14
+[16-May-2024 04:25:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/dispatcher.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/dispatcher.php on line 3
+[16-May-2024 04:25:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/provider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/provider.php on line 14
+[16-May-2024 04:25:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/upcharrc/public_html/amb/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/console.php on line 16
+[16-May-2024 04:25:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/account.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/account.php on line 9
+[16-May-2024 04:25:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/common.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/common.php on line 4
+[16-May-2024 04:26:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/fleet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/fleet.php on line 9
+[16-May-2024 04:26:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/admin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/admin.php on line 14
+[16-May-2024 04:26:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/routes/web.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/web.php on line 3
+[16-May-2024 04:26:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/upcharrc/public_html/amb/routes/api.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/routes/api.php on line 13

@@ -1,0 +1,336 @@
+[16-Feb-2024 05:29:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php on line 6
+[16-Feb-2024 05:29:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php on line 7
+[16-Feb-2024 05:29:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php on line 6
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php on line 6
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php on line 5
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php on line 5
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php on line 7
+[16-Feb-2024 05:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php on line 6
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php on line 6
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php on line 5
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php on line 6
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php on line 5
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php on line 7
+[17-Feb-2024 10:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php on line 7
+[17-May-2024 03:59:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php on line 7
+[17-May-2024 03:59:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php on line 7
+[17-May-2024 03:59:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php on line 7
+[17-May-2024 03:59:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ServiceTypesTableSeeder.php on line 7
+[17-May-2024 03:59:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php on line 7
+[17-May-2024 03:59:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php on line 7
+[17-May-2024 03:59:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php on line 7
+[17-May-2024 03:59:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php on line 7
+[17-May-2024 03:59:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php on line 7
+[17-May-2024 04:00:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php on line 7
+[17-May-2024 04:00:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PromocodesTableSeeder.php on line 7
+[17-May-2024 04:00:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/PermissionTableSeeder.php on line 7
+[17-May-2024 04:00:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php on line 5
+[17-May-2024 04:00:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php on line 5
+[17-May-2024 04:00:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php on line 5
+[17-May-2024 04:00:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DocumentsTableSeeder.php on line 5
+[17-May-2024 04:00:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php on line 6
+[17-May-2024 04:00:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php on line 7
+[17-May-2024 04:00:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php on line 6
+[17-May-2024 04:00:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php on line 7
+[17-May-2024 04:00:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php on line 6
+[17-May-2024 04:00:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php on line 7
+[17-May-2024 04:00:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/SettingsTableSeeder.php on line 6
+[17-May-2024 04:00:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DisputesTableSeeder.php on line 7
+[17-May-2024 04:01:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php on line 7
+[17-May-2024 04:01:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php on line 7
+[17-May-2024 04:01:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php on line 7
+[17-May-2024 04:01:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/ReasonsTableSeeder.php on line 7
+[17-May-2024 04:01:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php on line 7
+[17-May-2024 04:01:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php on line 7
+[17-May-2024 04:01:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php on line 7
+[17-May-2024 04:01:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AdminsTableSeeder.php on line 7
+[17-May-2024 04:01:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php on line 5
+[17-May-2024 04:01:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php on line 5
+[17-May-2024 04:01:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php on line 5
+[17-May-2024 04:01:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/RoleTableSeeder.php on line 5
+[17-May-2024 04:01:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php on line 7
+[17-May-2024 04:01:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php on line 7
+[17-May-2024 04:01:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php on line 7
+[17-May-2024 04:02:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DispatcherSeeder.php on line 7
+[17-May-2024 04:02:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php on line 6
+[17-May-2024 04:02:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php on line 7
+[17-May-2024 04:02:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php on line 6
+[17-May-2024 04:02:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php on line 7
+[17-May-2024 04:02:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php on line 6
+[17-May-2024 04:02:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php on line 7
+[17-May-2024 04:02:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DatabaseSeeder.php on line 6
+[17-May-2024 04:02:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/AccountsSeeder.php on line 7
+[17-May-2024 04:02:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php on line 6
+[17-May-2024 04:02:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php on line 6
+[17-May-2024 04:02:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php on line 6
+[17-May-2024 04:02:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/DemoSeeder.php on line 6
+[17-May-2024 04:02:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php on line 7
+[17-May-2024 04:02:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php on line 7
+[17-May-2024 04:03:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php on line 7
+[17-May-2024 04:03:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/database/seeds/FleetSeeder.php on line 7

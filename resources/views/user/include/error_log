@@ -1,0 +1,20 @@
+[17-Feb-2024 10:48:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function img() in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php on line 4
+[17-May-2024 04:11:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function img() in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php on line 4
+[17-May-2024 04:13:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function img() in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php on line 4
+[17-May-2024 04:15:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function img() in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php on line 4
+[17-May-2024 04:16:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function img() in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/user/include/nav.blade.php on line 4

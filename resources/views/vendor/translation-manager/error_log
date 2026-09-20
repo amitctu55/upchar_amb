@@ -1,0 +1,24 @@
+[16-Feb-2024 05:29:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php on line 26
+[17-Feb-2024 10:47:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php on line 26
+[16-May-2024 11:42:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php on line 26
+[16-May-2024 11:46:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php on line 26
+[16-May-2024 11:49:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php on line 26
+[16-May-2024 11:52:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/translation-manager/index.php on line 26

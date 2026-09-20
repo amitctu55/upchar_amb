@@ -1,0 +1,16 @@
+[16-May-2024 11:43:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/vendor/notifications/email-plain.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/notifications/email-plain.blade.php on line 22
+[16-May-2024 11:46:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/vendor/notifications/email-plain.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/notifications/email-plain.blade.php on line 22
+[16-May-2024 11:49:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/vendor/notifications/email-plain.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/notifications/email-plain.blade.php on line 22
+[16-May-2024 11:53:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/upcharrc/public_html/amb/resources/views/vendor/notifications/email-plain.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/upcharrc/public_html/amb/resources/views/vendor/notifications/email-plain.blade.php on line 22
